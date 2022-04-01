@@ -1,0 +1,42 @@
+//MOD version:1.4.1 で翻訳したものです
+
+{
+    //Tool Upgrade Service
+    "Delivery.Clint.UpgradeLetter": "さて、どうぐの準備が整った。^きみに送ろうと思ったんだ……わざわざ来る手間を省くためにね。^じゃあ、元気でな。 ^   -鍛冶屋のクリント",
+    "Delivery.Clint.UpgradeLetter.Title": "クリントのどうぐ宅配便",
+    "Shipment.Clint.UpgradeLetter": "やぁ、どうも……  ^どうぐのアップグレードをてがみで1つ送れるんだ。 お金と延べ棒も忘れないでくれ。^それと1つずつしか作業できないから複数送らないでくれ。^   -鍛冶屋のクリント",
+    "Shipment.Clint.UpgradeLetter.Title": "クリントのどうぐアップグレードサービス",
+    "Shipment.Clint.UpgradeLetter.ToolSent": "{{Tool}} をアップグレードに送る。",
+    "Shipment.Clint.UpgradeLetter.NoBars": " {{Tool}} をアップグレードに送るにはのべ棒が足りない。",
+    "Shipment.Clint.UpgradeLetter.NoMoney": " {{Tool}} をアップグレードに送るにはお金が足りない。",
+
+    // Item Delivery Quest Service
+    "Shipment.Quest.ItemDelivery.NotEnoughItems": "{{Npc}} は {{Number}} 個、必要としています。",
+    "Shipment.Quest.ItemDelivery.NoMoney": "アイテムを送るためのお金が足りない。",
+    "Shipment.Quest.DeliveryQuestsLetter": "@へ ^住民に頼まれた品は郵便受けから送ることもできる。^小さな町だが郵便サービスは充実しているよ。^^  -ルイスより",
+    "Shipment.Quest.DeliveryQuestsLetter.Title": "ペリカンタウン 出荷サービス",
+
+
+    // Adventure Guild Recovery Service
+    "Delivery.Marlon.RecoveryOfferLetter": "@,^ご存知の通り, 要求に応じてアイテム回収を行っている。^しかし、毎回受け取りに来なくとも送ることも可能だ。^2つから選択できる:^  ランダムに失ったものを1つ回収するか^  失ったものを全て回収するか^お金に余裕がある限り。^もし興味があれば返信してくれ。^   -マーロン^^P.S. どちらを選んでもギルドで決め直すことができるぞ。",
+    "Delivery.Marlon.RecoveryOfferLetter.Title": "マーロンの回収サービスの申し出",
+    "Delivery.Marlon.RecoveryOffer.Question": "どちらを選ぼうか?",
+    "Delivery.Marlon.RecoveryOffer.One": "失ったものからランダムに1つ",
+    "Delivery.Marlon.RecoveryOffer.All": "失ったもの全て",
+    "Delivery.Marlon.RecoveryOffer.None": "なし",
+    "Delivery.Marlon.RecoveryOffer.AnswerSent": "回収サービスの選択を返信した。",
+    "Delivery.Marlon.RecoveryRewardLetter": "@,^きみは冒険者ギルドである種の伝説となっている。^そこで今後は回収サービスを全品かつ無料で提供しよう。^^   -マーロン",
+    "Delivery.Marlon.RecoveryRewardLetter.Title": "マーロンによる報酬の回収サービス",
+    "Delivery.Marlon.RecoveryLetter": "@,^選択したサービスでの回収品を送付した。^^次はもっと慎重にな!^   -マーロン",
+    "Delivery.Marlon.RecoveryLetter.Title": "マーロンの回収サービス",
+
+    // Gift Shipment
+    "Shipment.Wizard.GiftShipmentLetter": "この土地はなぜこんなに郵便サービスが充実してるか不思議に思ったのではないか?^市長は自慢したがるが、誰がこんなに早く配達しているのかさえ知らない。^我輩の秘儀の研究によればジュニモが関わっていると思われる。^誰かに宛てた品物を郵便受けに入れると魔法のように配達されるのだ。^とにかく、ジュニモに関する知識を貴殿にも伝えたかったのだ。^   -魔術師 M. ラズモディアス",
+    "Shipment.Wizard.GiftShipmentLetter.Title": "魔術師のプレゼント送付サービス",
+    "Shipment.Gift.Previous": "@戻る",
+    "Shipment.Gift.Next": "次へ>",
+    "Shipment.Gift.None": "やめる",
+    "Shipment.Gift.Question": "{{Gift}} を送る相手は……",
+    "Shipment.Gift.GiftSent": "{{Gift}} を {{Npc}} に送る。",
+    "Shipment.Gift.NoMoney": "プレゼントを送るにはお金が足りない。"
+}
